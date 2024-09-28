@@ -1,1 +1,11 @@
+{
+    "BreakIn2": {
+        "Bat": {
+            "Mesh": "http://www.roblox.com/asset/?id=54983181"
+        },
 
+        "MedKit": {
+            "Mesh": "http://www.roblox.com/asset/?id=13319240"
+        }
+    }
+}
