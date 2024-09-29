@@ -1,11 +1,13 @@
 {
     "BreakIn2": {
         "Bat": {
-            "Mesh": "http://www.roblox.com/asset/?id=54983181"
+            "Mesh": "http://www.roblox.com/asset/?id=54983181",
+            "Texture": "rbxassetid://84992983958214"
         },
 
         "MedKit": {
-            "Mesh": "http://www.roblox.com/asset/?id=13319240"
+            "Mesh": "http://www.roblox.com/asset/?id=13319240",
+            "Texture": "rbxassetid://79097044879172"
         }
     }
 }
